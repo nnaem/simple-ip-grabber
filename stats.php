@@ -9,7 +9,7 @@
  ''***********************************************************************************/
 
 
-$Password = 'NoStealing'; // Set your password here
+$Password = 'YourPassword'; // Set your password here
 
    if (isset($_POST['submit_pwd'])){
       $pass = isset($_POST['passwd']) ? $_POST['passwd'] : '';
