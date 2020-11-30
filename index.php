@@ -37,21 +37,12 @@ fclose($_handle);
 ?>
 <!DOCTYPE html>
 <html>
-    <link rel="stylesheet" type="text/css" href="style.css">
-    <meta property="og:type" content="website">
-<meta property="og:title" content="Embed title" />
-<meta property="og:description" content="Embed description" />
-<meta property="og:url" content="https://usefulstuff.ml/" />
-<meta property="og:image" content="icon.jpg" />
-<meta name="theme-color" content="#01FE2B">
     <head>
-        <script data-ad-client="ca-pub-2235454136284515" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
         <title>Main Page</title>
         <body>
             <h1>
                 Hello!
             </h1>
-            <a href="https://usefulstuff.ml/privacy-policy/"
         </body>
     </head>
 </html>
